@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Fathi</h1>
 <h3 align="center">A passionate Software Engineer</h3>
-<img algin="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedfathi3060" alt="mohamedfathi3060" /></a> </p>
 
